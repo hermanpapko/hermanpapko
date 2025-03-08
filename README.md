@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi! I'm Herman 👋
 
-<!--
-**hermanpapko/hermanpapko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me:**
+- 🎓 2nd-year student studying programming.
+- 👨‍💻 Not very passionate about coding yet, but still learning.
+- 💻 Enjoy building computers.
+- 🎸 Play the guitar.
 
-Here are some ideas to get you started:
+**Technologies I work with:**
+- 🛠️ HTML, CSS, JavaScript, C++, Java, Python
+- 🛠️ PHP, MySQL
+- 🛠️ XAMPP (for local development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm currently up to:**
+- ✨ Learning new technologies.
+- ✨ Improving my web development skills.
+
+**How to reach me:**
+- 📧 Email: herman.papko@gmail.com
+- 👨‍💻 Telegram: @hermanpapko
+
+Thanks for visiting my profile! 🌟
+
