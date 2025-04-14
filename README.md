@@ -2,7 +2,6 @@
 
 **About Me:**
 - 🎓 2nd-year student studying programming.
-- 👨‍💻 Not very passionate about coding yet, but still learning.
 - 💻 Enjoy building computers.
 - 🎸 Play the guitar.
 
