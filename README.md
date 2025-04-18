@@ -6,7 +6,7 @@
 - 🎸 Play the guitar.
 
 **Technologies I work with:**
-- 🛠️ HTML, CSS, JavaScript, C++, Java, Python
+- 🛠️ HTML, CSS, JavaScript(React.js), C++, Java, Python(Django)
 - 🛠️ PHP, MySQL
 - 🛠️ XAMPP (for local development)
 
