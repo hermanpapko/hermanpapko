@@ -1,7 +1,7 @@
 ### Hi! I'm Herman 👋
 
 **About Me:**
-- 🎓 3nd-year student studying programming.
+- 🎓 3 year student studying programming.
 - 💻 Enjoy building computers.
 - 🎸 Play the guitar.
 
