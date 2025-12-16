@@ -7,7 +7,7 @@
 
 **Technologies I work with:**
 - 🛠️ HTML, CSS, JavaScript(React.js), C++, Java, Python(Django)
-- 🛠️ PHP, MySQL
+- 🛠️ PHP(Laravel), MySQL, PostgreSQL
 - 🛠️ XAMPP (for local development)
 
 **What I'm currently up to:**
