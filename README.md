@@ -6,11 +6,12 @@
 - 🎸 Play the guitar.
 
 **Technologies I work with:**
-- 🛠️ HTML, CSS, JavaScript(React.js), C++, Java, Python(Django)
-- 🛠️ PHP(Laravel), MySQL, PostgreSQL
-- 🛠️ XAMPP (for local development)
+- 🛠️ HTML, CSS, JavaScript, Python(Django)
+- 🛠️ PHP(Laravel, Symphony), MySQL, PostgreSQL
+- 🛠️ Docker, Linux, Command Line
 
 **What I'm currently up to:**
+- ✨ Working as a BackEnd Developer
 - ✨ Learning new technologies.
 - ✨ Improving my web development skills.
 
