@@ -7,7 +7,7 @@
 
 **Technologies I work with:**
 - 🛠️ HTML, CSS, JavaScript, Python(Django)
-- 🛠️ PHP(Laravel, Symphony), MySQL, PostgreSQL
+- 🛠️ PHP(Drupal, Laravel, Symphony), MySQL, PostgreSQL
 - 🛠️ Docker, Linux, Command Line
 
 **What I'm currently up to:**
