@@ -29,7 +29,6 @@ I am a **Backend Developer** at **Innowise** and a 3rd-year Computer Science stu
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hermanpapko&show_icons=true&theme=tokyonight&hide_border=true" alt="Herman's GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermanpapko&layout=compact&theme=tokyonight&hide_border=true" alt="Herman's Top Languages" height="170" />
 </p>
 
